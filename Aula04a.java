@@ -18,3 +18,4 @@ public class ClasseMain {
     return minhaSenha == 1234;
 
   }
+}
