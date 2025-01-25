@@ -1,3 +1,5 @@
+//while é quando vc nao sabe quantas vezes vai repetir. 
+
 import java.util.*;
 
 public class Main {
