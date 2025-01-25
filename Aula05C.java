@@ -1,3 +1,4 @@
+// for é usado para quando eu sei exatamente quantas vezes eu quero repetir
 import java.util.*;
 
 public class Main {
