@@ -18,7 +18,8 @@ public class ArrayList {
 		flores.add("Gravo");
 		flores.add("Cristamo");
 		flores.add("Jasmine");
-		
+
+		//System.out.print(flores.toString());
 		
 		// primeiro eu coloco uma memoria(flor) e depois a lista(flores)
 		for (String flor :  flores) {
